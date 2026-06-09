@@ -10,7 +10,6 @@ Controlador de incubadora de huevos basado en **ESP32**, con monitoreo y control
 - **Pantalla LCD 16x2 I2C** con información en tiempo real
 - **Encoder rotatorio** para navegar y ajustar parámetros localmente
 - **Interfaz web WiFi** (modo Access Point) para monitoreo remoto
-- **Alertas sonoras** con melodías (Jurassic Park, Star Wars, Pokémon)
 - **Detección de fallos** del sensor con parada de seguridad
 
 ## Hardware
